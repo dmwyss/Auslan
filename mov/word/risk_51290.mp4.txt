@@ -1,0 +1,10 @@
+{
+"wordKey":"risk"
+,"wordList":["risk","risky"]
+,"region":"WA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/risk.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/auslan/51/51290.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"risk_51290.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"fun"
+,"wordList":["fun","amusement","strangeness","queerness","weirdness","oddity","funny","humorous","strange","odd","weird","queer"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/fun-2.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/13/13770.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"fun_13770.mp4"
+}

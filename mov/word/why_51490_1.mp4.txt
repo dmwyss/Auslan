@@ -1,0 +1,10 @@
+{
+"wordKey":"why"
+,"wordList":["why","because","since","as","cause","reason"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/why-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51490_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"why_51490_1.mp4"
+}

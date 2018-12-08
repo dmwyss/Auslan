@@ -1,9 +1,10 @@
 {
-"wordText":"add",
-"synonyms":["add"],
-"contextPath":"/AuslanGrabber",
-"pageUrl":"http://www.auslan.org.au/dictionary/words/add-1.html",
-"movieUrl":"http://media.auslan.org.au/mp4video/42/42330_1.mp4",
-"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/",
-"savedFileName":"add_42330_1.mp4"
+"wordKey":"add"
+,"wordList":["add","addition","extra","additional","furthermore","additionally"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/add-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/42/42330_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"add_42330_1.mp4"
 }

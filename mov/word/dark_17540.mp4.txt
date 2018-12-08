@@ -1,0 +1,10 @@
+{
+"wordKey":"dark"
+,"wordList":["dark","darkness","darken"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/dark-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/17/17540.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"dark_17540.mp4"
+}

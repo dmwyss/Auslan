@@ -1,0 +1,10 @@
+{
+"wordKey":"why-not"
+,"wordList":["why-not","let&#39;s"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/why-not.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/25/25210.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"why-not_25210.mp4"
+}

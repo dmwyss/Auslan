@@ -1,0 +1,10 @@
+{
+"wordKey":"fail"
+,"wordList":["fail","failure","flop"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/fail-4.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/50/50090_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"fail_50090_1.mp4"
+}

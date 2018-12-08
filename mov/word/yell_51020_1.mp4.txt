@@ -1,0 +1,10 @@
+{
+"wordKey":"yell"
+,"wordList":["yell","scream out"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/yell.scream1a.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51020_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"yell_51020_1.mp4"
+}

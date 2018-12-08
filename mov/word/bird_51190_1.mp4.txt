@@ -1,0 +1,10 @@
+{
+"wordKey":"bird"
+,"wordList":["bird","chicken","fowl","poultry","birdie"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/bird.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51190_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"bird_51190_1.mp4"
+}

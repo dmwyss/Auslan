@@ -1,0 +1,10 @@
+{
+"wordKey":"cant"
+,"wordList":["cant","improbable","implausible","cannot","may not","unable"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/can't-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/53/5300.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"cant_5300.mp4"
+}

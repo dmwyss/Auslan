@@ -1,0 +1,10 @@
+{
+"wordKey":"fruit"
+,"wordList":["fruit","apple"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/fruit2.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51220.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"fruit_51220.mp4"
+}

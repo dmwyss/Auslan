@@ -1,0 +1,10 @@
+{
+"wordKey":"which"
+,"wordList":["which","either","or"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/which-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/66/66090.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"which_66090.mp4"
+}

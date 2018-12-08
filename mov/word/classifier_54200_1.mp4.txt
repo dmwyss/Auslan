@@ -1,0 +1,10 @@
+{
+"wordKey":"classifier"
+,"wordList":["classifier"]
+,"region":"UNK"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/classifier-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/54/54200_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"classifier_54200_1.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"mind"
+,"wordList":["mind","mental","crazy","silly"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/mind-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/31/31570.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"mind_31570.mp4"
+}

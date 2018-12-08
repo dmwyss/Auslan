@@ -1,0 +1,10 @@
+{
+"wordKey":"before that (not before that)"
+,"wordList":["before that (not before that)"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/before that (not before that)-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/43/4300_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"before_that_(not_before_that)_4300_1.mp4"
+}

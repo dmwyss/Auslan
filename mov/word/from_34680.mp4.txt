@@ -1,0 +1,10 @@
+{
+"wordKey":"from"
+,"wordList":["from","since"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/from.BSL.html?lastmatch=breasts-1"
+,"movieUrl":"http://media.auslan.org.au/auslan/34/34680.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"from_34680.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"morning"
+,"wordList":["morning","Good morning"]
+,"region":"SOU_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/morning-2.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/34/34910.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"morning_34910.mp4"
+}

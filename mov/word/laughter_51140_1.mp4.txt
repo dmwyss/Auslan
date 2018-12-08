@@ -1,0 +1,10 @@
+{
+"wordKey":"laughter"
+,"wordList":["laughter","mirth","humour","comedy","hilarity","laugh","cheerful","humorous","hilarious"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/laugh1a.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51140_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"laughter_51140_1.mp4"
+}

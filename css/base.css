@@ -1,0 +1,23 @@
+body, div, span {
+	font-family: Helvetica, sans-serif;
+}
+#movDisplay {
+	position: fixed;
+	top: 40px;
+	right: 10px;
+	XXXdisplay:none;
+}
+#movDisplay video {
+    width: 600px;
+}
+.wordKey {
+	font-size: 20pt;
+}
+
+#wordList {
+    width: 300px;
+}
+.wordLink {
+	border: 1px dotted silver;
+	cursor: pointer;
+}

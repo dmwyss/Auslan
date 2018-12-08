@@ -1,0 +1,10 @@
+{
+"wordKey":"good night"
+,"wordList":["Good night"]
+,"region":"NOR_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/Good night-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/48/48091_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"good_night_48091_1.mp4"
+}

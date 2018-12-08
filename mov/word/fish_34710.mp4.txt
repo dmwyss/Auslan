@@ -1,0 +1,10 @@
+{
+"wordKey":"fish"
+,"wordList":["fish","Pisces"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/fish1a.html?lastmatch=breasts-1"
+,"movieUrl":"http://media.auslan.org.au/auslan/34/34710.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"fish_34710.mp4"
+}

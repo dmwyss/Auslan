@@ -1,0 +1,10 @@
+{
+"wordKey":"stop"
+,"wordList":["stop","put out","turn off","extinguish","finish","off","out"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/stop-2.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/37/37020_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"stop_37020_1.mp4"
+}

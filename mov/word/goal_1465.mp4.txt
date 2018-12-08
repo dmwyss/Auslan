@@ -1,0 +1,10 @@
+{
+"wordKey":"goal"
+,"wordList":["goal"]
+,"region":"SOU_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/goal-4.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/Gloss/14/1465.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"goal_1465.mp4"
+}

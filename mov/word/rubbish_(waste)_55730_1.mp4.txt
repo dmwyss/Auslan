@@ -1,0 +1,10 @@
+{
+"wordKey":"rubbish (waste)"
+,"wordList":["rubbish (waste)","garbage","waste (rubbish)"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/rubbish (waste)-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/55/55730_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"rubbish_(waste)_55730_1.mp4"
+}

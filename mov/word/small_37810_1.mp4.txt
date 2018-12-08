@@ -1,0 +1,10 @@
+{
+"wordKey":"small"
+,"wordList":["small","less","narrow","lessen","reduce","decrease"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/small-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/37/37810_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"small_37810_1.mp4"
+}

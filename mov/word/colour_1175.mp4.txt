@@ -1,0 +1,10 @@
+{
+"wordKey":"colour"
+,"wordList":["colour","color"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/colour-3.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/Gloss/11/1175.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"colour_1175.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"after"
+,"wordList":["after"]
+,"region":"NOR_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/after-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51410_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"after_51410_1.mp4"
+}

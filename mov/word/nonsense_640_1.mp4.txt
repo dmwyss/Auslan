@@ -1,0 +1,3 @@
+{
+"wordKey":"nonsense","wordList":["nonsense"],"contextPath":"/AuslanGrabber","pageUrl":"http://www.auslan.org.au/dictionary/words/rubbish (nonsense)-1.html","movieUrl":"http://media.auslan.org.au/mp4video/64/640_1.mp4","savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/","savedFileName":"nonsense_640_1.mp4"
+}

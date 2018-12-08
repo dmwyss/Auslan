@@ -1,0 +1,10 @@
+{
+"wordKey":"try"
+,"wordList":["try","attempt"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/try-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/13/13710.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"try_13710.mp4"
+}

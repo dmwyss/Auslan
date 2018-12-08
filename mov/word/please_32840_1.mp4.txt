@@ -1,0 +1,10 @@
+{
+"wordKey":"please"
+,"wordList":["please"]
+,"region":"NOR_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/please-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/32/32840_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"please_32840_1.mp4"
+}

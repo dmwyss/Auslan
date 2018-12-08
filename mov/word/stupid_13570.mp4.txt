@@ -1,0 +1,10 @@
+{
+"wordKey":"stupid"
+,"wordList":["stupid","silly","foolish","crazy","nuts","foolishness","craziness","stupidity"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/stupid-5.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/13/13570.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"stupid_13570.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"huge"
+,"wordList":["huge","size","bigness","largeness","large","big","enormous","immense","too much","too many","overly"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/huge-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/26/26780_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"huge_26780_1.mp4"
+}

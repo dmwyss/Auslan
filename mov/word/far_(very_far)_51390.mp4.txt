@@ -1,0 +1,10 @@
+{
+"wordKey":"far (very far)"
+,"wordList":["far (very far)","distant (very distant)","distance (long distance)"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/far1d.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51390.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"far_(very_far)_51390.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"simple"
+,"wordList":["simple","ease","easy","easily","simply"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/simple-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/61/61160.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"simple_61160.mp4"
+}

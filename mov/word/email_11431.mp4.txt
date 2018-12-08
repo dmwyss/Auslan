@@ -1,0 +1,10 @@
+{
+"wordKey":"email"
+,"wordList":["email"]
+,"region":"UNK"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/email-2.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/11/11431.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"email_11431.mp4"
+}

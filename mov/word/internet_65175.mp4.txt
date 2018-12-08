@@ -1,0 +1,10 @@
+{
+"wordKey":"internet"
+,"wordList":["internet"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/internet-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/65/65175.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"internet_65175.mp4"
+}

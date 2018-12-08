@@ -1,0 +1,10 @@
+{
+"wordKey":"pain"
+,"wordList":["pain","painful","sore","hurt","injury","injure","wound","harm"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/sore1a.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/25/25240.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"pain_25240.mp4"
+}

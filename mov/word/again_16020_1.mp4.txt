@@ -1,0 +1,10 @@
+{
+"wordKey":"again"
+,"wordList":["again","pardon","repeat"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/again-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/16/16020_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"again_16020_1.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"cat"
+,"wordList":["cat","pussy","pussy-cat","whiskers"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/cat-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/50/50980_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"cat_50980_1.mp4"
+}

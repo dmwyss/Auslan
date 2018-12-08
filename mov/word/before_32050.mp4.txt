@@ -1,0 +1,10 @@
+{
+"wordKey":"before"
+,"wordList":["before","past","ago","former","previous","prior"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/before-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/32/32050.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"before_32050.mp4"
+}

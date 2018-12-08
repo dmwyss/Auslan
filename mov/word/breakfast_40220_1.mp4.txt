@@ -1,0 +1,10 @@
+{
+"wordKey":"breakfast"
+,"wordList":["breakfast"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/breakfast-3.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/40/40220_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"breakfast_40220_1.mp4"
+}

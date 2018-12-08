@@ -1,0 +1,10 @@
+{
+"wordKey":"old"
+,"wordList":["old","age","aged","older"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/old-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/17/17570.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"old_17570.mp4"
+}

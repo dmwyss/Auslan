@@ -1,0 +1,10 @@
+{
+"wordKey":"repetitive"
+,"wordList":["repetitive","repeat","repetitively","again and again","over and over","frequently","repetition","revision","revise","review"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/repeat1a.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/16/16040_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"repetitive_16040_1.mp4"
+}

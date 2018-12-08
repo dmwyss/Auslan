@@ -1,0 +1,10 @@
+{
+"wordKey":"vomit"
+,"wordList":["vomit","sick","throw up"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/throw-up.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/66/660.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"vomit_660.mp4"
+}

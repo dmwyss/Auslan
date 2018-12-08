@@ -1,0 +1,10 @@
+{
+"wordKey":"how old"
+,"wordList":["how old","age","what age"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/how old-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/24/24320.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"how_old_24320.mp4"
+}

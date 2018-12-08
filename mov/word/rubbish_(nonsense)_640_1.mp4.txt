@@ -1,0 +1,10 @@
+{
+"wordKey":"rubbish (nonsense)"
+,"wordList":["rubbish (nonsense)","bullshit","nonesense","hate","loathe","yuk"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/rubbish (nonsense)-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/64/640_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"rubbish_(nonsense)_640_1.mp4"
+}

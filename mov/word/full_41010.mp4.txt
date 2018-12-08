@@ -1,0 +1,10 @@
+{
+"wordKey":"full"
+,"wordList":["full","fill"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/full-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/41/41010.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"full_41010.mp4"
+}

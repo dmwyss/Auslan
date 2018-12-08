@@ -1,0 +1,10 @@
+{
+"wordKey":"obvious"
+,"wordList":["obvious","plain","evident","clear","obviously","plainly","evidently","clearly"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/obvious-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/55/5540.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"obvious_5540.mp4"
+}

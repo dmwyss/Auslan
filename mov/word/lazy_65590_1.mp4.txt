@@ -1,0 +1,10 @@
+{
+"wordKey":"lazy"
+,"wordList":["lazy","laziness","idleness","good-for-nothing","bludger","idle","bludge"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/lazy-2.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/65/65590_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"lazy_65590_1.mp4"
+}

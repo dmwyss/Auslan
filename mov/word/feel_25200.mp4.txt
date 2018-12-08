@@ -1,0 +1,10 @@
+{
+"wordKey":"feel"
+,"wordList":["feel","sense","think","feeling","sensation","emotion"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/feel-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/25/25200.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"feel_25200.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"engaged"
+,"wordList":["engaged","diamond ring","engagement ring","engagement","fiancee"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/engaged-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/11/11900.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"engaged_11900.mp4"
+}

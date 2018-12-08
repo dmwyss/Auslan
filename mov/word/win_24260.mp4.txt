@@ -1,0 +1,10 @@
+{
+"wordKey":"win"
+,"wordList":["win","winner","achieve"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/win-2.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/24/24260.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"win_24260.mp4"
+}

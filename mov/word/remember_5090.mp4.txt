@@ -1,0 +1,10 @@
+{
+"wordKey":"remember"
+,"wordList":["remember","memory","memorise"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/remember-4.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/50/5090.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"remember_5090.mp4"
+}

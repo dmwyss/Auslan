@@ -1,0 +1,10 @@
+{
+"wordKey":"idea"
+,"wordList":["idea","idea (get idea)"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/idea-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/55/55680_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"idea_55680_1.mp4"
+}

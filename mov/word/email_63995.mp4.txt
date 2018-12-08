@@ -1,0 +1,10 @@
+{
+"wordKey":"email"
+,"wordList":["email","sms","text"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/email-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/63/63995.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"email_63995.mp4"
+}

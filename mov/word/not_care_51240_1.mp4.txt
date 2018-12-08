@@ -1,0 +1,10 @@
+{
+"wordKey":"not care"
+,"wordList":["not care","care not","don&#39;t care","careless","indifference","reckless","negligent","clumsy","reckless","indifferent","clumsiness","neglect","recklessness","carelessness"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/gloss/not-care1a.html?lastmatch=cat-1"
+,"movieUrl":"http://media.auslan.org.au/mp4video/51/51240_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"not_care_51240_1.mp4"
+}

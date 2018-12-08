@@ -1,0 +1,10 @@
+{
+"wordKey":"now"
+,"wordList":["now","today","nowadays","present (now)","presently"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/now-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/70/7080_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"now_7080_1.mp4"
+}

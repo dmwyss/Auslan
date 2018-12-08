@@ -1,0 +1,10 @@
+{
+"wordKey":"bread"
+,"wordList":["bread"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/bread-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/43/43090.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"bread_43090.mp4"
+}

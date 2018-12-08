@@ -1,0 +1,10 @@
+{
+"wordKey":"breasts"
+,"wordList":["breasts","breast","bosom","breastfeeding","breastfeed"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/breasts-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/34/34650.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"breasts_34650.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"quick"
+,"wordList":["quick","quickly","sudden","suddenly","rush"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/quick-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/10/10530.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"quick_10530.mp4"
+}
