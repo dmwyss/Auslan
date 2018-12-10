@@ -1,0 +1,10 @@
+{
+"wordKey":"gaze"
+,"wordList":["gaze","attention","stare","look"]
+,"region":"UNK"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/gaze-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/38/38331.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"gaze_38331.mp4"
+}

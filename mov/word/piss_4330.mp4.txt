@@ -1,0 +1,10 @@
+{
+"wordKey":"piss"
+,"wordList":["piss","urine","urinate"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/piss-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/43/4330.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"piss_4330.mp4"
+}

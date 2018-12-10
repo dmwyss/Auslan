@@ -1,0 +1,10 @@
+{
+"wordKey":"game"
+,"wordList":["game","board game","chess","draughts","checkers"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/game-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/25/25600.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"game_25600.mp4"
+}

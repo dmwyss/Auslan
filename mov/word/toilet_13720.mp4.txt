@@ -1,0 +1,10 @@
+{
+"wordKey":"toilet"
+,"wordList":["toilet","flush"]
+,"region":"UNK"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/toilet-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/13/13720.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"toilet_13720.mp4"
+}

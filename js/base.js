@@ -1,51 +1,64 @@
 
 var movManager = {
-	data: aoWordData
+	data: {words:[], pointers:[]}
 	,uiWordList: null
 	,uiWordInfo: null
 	,uiMovDisplay: null
 	,ixLastClickedWord: null
+	,moviePlayer:null
+	,movieSource: null
 	,init: function() {
+		this.data.words = aoWordData;
 		this.normalizeData();
-		this.data.sort(this.compare);
+		this.data.pointers.sort(this.compare);
 		this.uiWordList = document.querySelector("#wordList");
 		this.uiWordInfo = document.querySelector("#wordInfo");
 		this.uiMovDisplay = document.querySelector("#movDisplay");
+		this.moviePlayer = document.getElementById('movVid');
+		this.movieSource = document.getElementById('movSource');
 		this.renderWordList();
 		return this;
 	}
 	,normalizeData() {
-		for (var iWD = 0; iWD < this.data.length; iWD++) {
-			var oWord = this.data[iWD];
-			try {
-				oWord.wordKeySortable = oWord.wordKey.toLowerCase();
-			} catch (e) {
-				oWord.wordKey = "BROKEN <a href=\"" + oWord.pageUrl + "\">" + oWord.pageUrl + "</a>";
-			}
+		//var asAtr = ["region","pageUrl"];
+		var iPointerCounter = 0;
+		for (var iWD = 0; iWD < this.data.words.length; iWD++) {
+			var oWord = this.data.words[iWD];
 			oWord.ix = iWD;
+			for (var iP = 0; iP < oWord.wordList.length; iP++) {
+				var oPointer = {
+					wordKey: oWord.wordList[iP]
+					,parent: oWord
+					,ix: iPointerCounter++
+				}
+				try {
+					oPointer.wordKeySortable = oPointer.wordKey.toLowerCase();
+				} catch (e) {
+					oWord.wordKey = "BROKEN <a href=\"" + oWord.pageUrl + "\">" + oWord.pageUrl + "</a>";
+				}
+				this.data.pointers.push(oPointer);
+			}
 		}
 	}
 	,DEBUG_showVid(oWordData) {
 		document.querySelector("#link_" + oWordData.ix).style.backgroundColor = "red";
 		window.open(oWordData.pageUrl, 'noooo');
 	}
-	,showVid(oWordData) {
-
-		var videocontainer = document.getElementById('movVid');
-		var videosource = document.getElementById('movSource');
+	,showVid(oPointer) {
+		var oWordData = oPointer.parent;
 		var newmp4 = 'mov/word/' + oWordData.savedFileName;
 		var newposter = 'img/poster.jpg';
 		 
-		//var videobutton = document.getElementById("videolink1");
-		 
-		//videobutton.addEventListener("click", function(event) {
-	    videocontainer.pause();
-	    videosource.setAttribute('src', newmp4);
-	    videocontainer.load();
-	    //videocontainer.setAttribute('poster', newposter); //Changes video poster image
-	    videocontainer.play();
-		//}, false);
-		this.showWordInfo(oWordData);
+	    this.moviePlayer.pause();
+	    this.movieSource.setAttribute('src', newmp4);
+	    this.moviePlayer.load();
+	    this.moviePlayer.play();
+		this.showWordInfo(oPointer);
+	}
+	,replayVid() {
+		this.moviePlayer.pause();
+		this.moviePlayer.currentTime = 0; 
+		this.moviePlayer.play();
 	}
 	,showVidXXXXXXXXXXXXXXXXX(oWordData) {
 		/* DO NOT DELETE ths is better, but does not work.
@@ -71,21 +84,32 @@ var movManager = {
 			"class":"wordLink"
 			,"onclick":"movManager.showVid(this.data)"
 		};
-		for (var iWD = 0; iWD < this.data.length; iWD++) {
-			var oWord = this.data[iWD];
+/*		for (var iWD = 0; iWD < this.data.words.length; iWD++) {
+			var oWord = this.data.words[iWD];
 			var sWordKey = oWord.wordKey;
 			oAttrs.id = "link_" + oWord.ix;
 			var ui = util.ui.createElement(this.uiWordList, "div", oAttrs, sWordKey);
 			ui.data = oWord;
+		}*/
+		for (var iWD = 0; iWD < this.data.pointers.length; iWD++) {
+			var oPointer = this.data.pointers[iWD];
+			var sWordKey = oPointer.wordKey;
+			oAttrs.id = "link_" + oPointer.ix;
+			var ui = util.ui.createElement(this.uiWordList, "div", oAttrs, sWordKey);
+			ui.data = oPointer;
 		}
 	}
-	,showWordInfo: function(oWord) {
+	,showWordInfo: function(oPointer) {
 		var sOut = "to be continued...";
-		if (typeof oWord != "undefined") {
+		if (typeof oPointer != "undefined") {
 			sOut = "<div class=\"wordInfoFrame\">";
-			sOut += "<div class=\"title\">" + oWord.wordKey + "<div>";
-			sOut += "<div class=\"url\">" + oWord.wordList + "<div>";
-			sOut += "<div>";
+				sOut += "<div class=\"title\">" + oPointer.wordKey + "</div>";
+				sOut += "<div class=\"wordList\">" + oPointer.parent.wordList.join(", ") + "</div>";
+				sOut += "<div>";
+					sOut += "<button onclick=\"movManager.replayVid();\">repeat</button>";
+				sOut += "</div>";
+				sOut += "<div class=\"url\"><a href=\"" + oPointer.parent.pageUrl + "\" target=\"signbankWindow\">" + "original on Signbank" + "</div>";
+			sOut += "</div>";
 		}
 		this.uiWordInfo.innerHTML = sOut;
 	}
@@ -104,5 +128,5 @@ var movManager = {
 document.addEventListener('DOMContentLoaded', () => {
 	console.log("loaded.");
 	movManager.init();
-	movManager.showWordInfo();
+	//movManager.showWordInfo();
 });

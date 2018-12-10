@@ -1,0 +1,10 @@
+{
+"wordKey":"friend"
+,"wordList":["friend","friends","friendly"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/friend-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/46/46930.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"friend_46930.mp4"
+}

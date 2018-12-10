@@ -1,0 +1,10 @@
+{
+"wordKey":"from"
+,"wordList":["from","since","henceforth","thereafter"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/from-4.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/39/39700_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"from_39700_1.mp4"
+}

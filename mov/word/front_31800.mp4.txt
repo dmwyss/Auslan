@@ -1,0 +1,10 @@
+{
+"wordKey":"front"
+,"wordList":["front","in the front","in front of","face","front up to"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/front-1.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/31/31800.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"front_31800.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"brother"
+,"wordList":["brother"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/brother-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/57/57890_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"brother_57890_1.mp4"
+}

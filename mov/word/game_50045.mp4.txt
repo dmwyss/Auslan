@@ -1,0 +1,10 @@
+{
+"wordKey":"game"
+,"wordList":["game","compete","competition","race","match","contest"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/game-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/50/50045.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"game_50045.mp4"
+}

@@ -1,0 +1,10 @@
+{
+"wordKey":"full"
+,"wordList":["full","enough","sufficient","suffice","fed up"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/full-3.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/32/32990.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"full_32990.mp4"
+}

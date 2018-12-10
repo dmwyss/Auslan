@@ -1,0 +1,10 @@
+{
+"wordKey":"father"
+,"wordList":["father","dad","daddy"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/father-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/20/20560_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"father_20560_1.mp4"
+}

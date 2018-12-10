@@ -1,0 +1,10 @@
+{
+"wordKey":"water"
+,"wordList":["water"]
+,"region":"SOU_DIA"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/water-2.html"
+,"movieUrl":"http://media.auslan.org.au/auslan/13/13790.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"water_13790.mp4"
+}

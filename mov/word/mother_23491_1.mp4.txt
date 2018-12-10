@@ -1,0 +1,10 @@
+{
+"wordKey":"mother"
+,"wordList":["mother"]
+,"region":"AUS"
+,"contextPath":"/AuslanGrabber"
+,"pageUrl":"http://www.auslan.org.au/dictionary/words/mother-1.html"
+,"movieUrl":"http://media.auslan.org.au/mp4video/23/23491_1.mp4"
+,"savedFilePath":"/Users/Shared/Data/Projects/Auslan/mov/word/"
+,"savedFileName":"mother_23491_1.mp4"
+}

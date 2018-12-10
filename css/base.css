@@ -21,3 +21,8 @@ body, div, span {
 	border: 1px dotted silver;
 	cursor: pointer;
 }
+#wordInfo .title {
+    color: silver;
+    font-size: 20pt;
+    background-color: #555;
+}
